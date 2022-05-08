@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T10:32:10.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="fK413C33Z-BgZFADlF5R" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T10:52:33.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="zzVlnzW9yXtvmwuDojGN" version="18.0.1" type="github">
   <diagram id="fuy1s0eva4b-fFWhVFdE" name="Page-1">
     <mxGraphModel dx="2137" dy="-4977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-223" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="6941" width="330" height="330" as="geometry" />
+          <mxGeometry x="1640" y="6941" width="330" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-220" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1103" y="6941" width="354" height="354" as="geometry" />
@@ -299,25 +299,25 @@
           <mxGeometry y="182" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-99" value="商品条码" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="7018" width="240" height="182" as="geometry" />
+          <mxGeometry x="1680" y="7018" width="260" height="182" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-100" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="qUMy1aH1Jgnn8uqdyD9r-99">
-          <mxGeometry y="26" width="240" height="26" as="geometry" />
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-101" value="SKU编码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="qUMy1aH1Jgnn8uqdyD9r-99">
-          <mxGeometry y="52" width="240" height="26" as="geometry" />
+          <mxGeometry y="52" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-102" value="条码类型：店内码、国际条形码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="qUMy1aH1Jgnn8uqdyD9r-99">
-          <mxGeometry y="78" width="240" height="26" as="geometry" />
+          <mxGeometry y="78" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-103" value="条码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="qUMy1aH1Jgnn8uqdyD9r-99">
-          <mxGeometry y="104" width="240" height="26" as="geometry" />
+          <mxGeometry y="104" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-104" value="+新增条码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="qUMy1aH1Jgnn8uqdyD9r-99">
-          <mxGeometry y="130" width="240" height="26" as="geometry" />
+          <mxGeometry y="130" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-106" value="+删除条码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="qUMy1aH1Jgnn8uqdyD9r-99">
-          <mxGeometry y="156" width="240" height="26" as="geometry" />
+          <mxGeometry y="156" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-107" value="SPU" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1530" y="7530" width="250" height="416" as="geometry" />
@@ -623,7 +623,7 @@
           <mxGeometry x="1235" y="6970" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-224" value="条形码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1745" y="6971" width="90" height="30" as="geometry" />
+          <mxGeometry x="1755" y="6971" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qUMy1aH1Jgnn8uqdyD9r-226" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=24;" edge="1" parent="1" source="qUMy1aH1Jgnn8uqdyD9r-214" target="qUMy1aH1Jgnn8uqdyD9r-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
