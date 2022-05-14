@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T09:32:51.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="vCURdxKHUf6NGKuMRjZM" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-14T09:50:34.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="rxwoLJ0ZYokxpIHj8WqM" version="18.0.1" type="github" pages="14">
   <diagram id="fuy1s0eva4b-fFWhVFdE" name="sku_model">
     <mxGraphModel dx="4757" dy="-3240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2842,7 +2842,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vLnVZ0HoMTIUWgBfEciy" name="huopin">
-    <mxGraphModel dx="1572" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3664,6 +3664,87 @@
         </mxCell>
         <mxCell id="FH13jsF44ytbVN-KQaf5-23" value="商品信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-24" value="线索创建接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-25" value="线索编辑接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-26" value="线索废弃接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-27" value="线索建品接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-28" value="平台品合法性校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="4420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-29" value="平台品重复性校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="4470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-30" value="平台品完整性校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="4520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-32" value="平台品创建接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="4420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-33" value="平台品修改接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="4470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-34" value="平台品废弃接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="4520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-35" value="平台品查询接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="4570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-36" value="卖家合法性校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="4420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-37" value="卖家品重复性校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="4470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-38" value="卖家品完整性校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="4520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-39" value="卖家品创建接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="4420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-40" value="卖家品修改接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="4470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-41" value="卖家品废弃接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="4520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-42" value="卖家品查询接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="4570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-43" value="类目创建接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="4420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-44" value="类目修改接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="4470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-45" value="类目废弃接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="4520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-46" value="属性创建接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="4420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-47" value="属性修改接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="4470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-48" value="属性废弃接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="4520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-49" value="类目属性创建接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="4420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-50" value="类目属性修改接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="4470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FH13jsF44ytbVN-KQaf5-51" value="类目属性废弃接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="4520" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
